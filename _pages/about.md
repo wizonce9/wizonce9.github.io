@@ -122,7 +122,7 @@ I developed **PyWhiteBox**, a web-based tool for **white-box testing** of Python
 ## Music and Performance
 
 ### Forming My Band: A Fusion of Chinese and Western Music
-Throughout my musical journey, I was deeply influenced by both **Chinese traditional music** and **Western classical and modern styles**. I founded a band that aimed to combine these two musical worlds, bridging cultural gaps through unique arrangements. I took on the role of **arranger** and **guitarist**, crafting innovative compositions that blended Chinese folk instruments with electric guitars and Western rhythms. Our performances at various university events received enthusiastic feedback, showcasing the fusion of our creative visions.
+Throughout my musical journey, I was deeply influenced by both **Chinese traditional music** and **Western classical and modern styles**. I founded a band that aimed to combine these two musical worlds, bridging cultural gaps through unique arrangements. I took on the role of **arranger** and **guitarist**, crafting innovative compositions that blended Chinese folk instruments with guitars and Western rhythms. Our performances at various university events received enthusiastic feedback, showcasing the fusion of our creative visions.
 
 
 ### Guitar Instructor and Solo Performances
@@ -133,5 +133,16 @@ As a **guitar instructor** at my university, I had the privilege of teaching and
 ### Forming My Band: A Fusion of Chinese and Western Music
 Throughout my musical journey, I was deeply influenced by both **Chinese traditional music** and **Western classical and modern styles**. I founded a band that aimed to combine these two musical worlds, bridging cultural gaps through unique arrangements. I took on the role of **arranger** and **guitarist**, crafting innovative compositions that blended Chinese folk instruments with electric guitars and Western rhythms. Our performances at various university events received enthusiastic feedback, showcasing the fusion of our creative visions.
 
+![956055a5e94c606b3c08a496c736896](https://github.com/user-attachments/assets/2e2727dc-918f-490b-8b5d-22e052fcd2c5)
+
+![ed2937f2874075e386fe310c13c369a](https://github.com/user-attachments/assets/7cec597f-df2e-4c98-8e9c-d6cf757e2dca)
+
+![b5fb65c9e6d91cd4c8921c7ff473bfd](https://github.com/user-attachments/assets/82095dba-0eb7-4afe-9974-ac671b3550af)
+
+
 ### Guitar Instructor and Solo Performances
 As a **guitar instructor** at my university, I had the privilege of teaching and mentoring several students in guitar technique and performance. I developed a personalized approach for each student, helping them improve their skills and knowledge of music theory. In addition to teaching, I also performed solo concerts, where I explored both classical and contemporary guitar repertoires. These performances, alongside my teaching experiences, have deepened my passion for music and its potential as a therapeutic tool.  
+
+![01dfee93f96d7458d07e595b033b23b](https://github.com/user-attachments/assets/ae819d07-7481-4bb7-af82-97d1ccaecdc5)
+
+![852f4d6689dcf1a9736cc4ebce5e8da](https://github.com/user-attachments/assets/488e8ce8-7ad7-4b9c-a15b-e009793aa955)
