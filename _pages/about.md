@@ -1,6 +1,7 @@
 ---
 permalink: /
 author_profile: true
+title: "Xinjian Ji's Academic Pages"
 redirect_from: 
   - /about/
   - /about.html
