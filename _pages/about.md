@@ -122,15 +122,6 @@ I developed **PyWhiteBox**, a web-based tool for **white-box testing** of Python
 ## Music and Performance
 
 ### Forming My Band: A Fusion of Chinese and Western Music
-Throughout my musical journey, I was deeply influenced by both **Chinese traditional music** and **Western classical and modern styles**. I founded a band that aimed to combine these two musical worlds, bridging cultural gaps through unique arrangements. I took on the role of **arranger** and **guitarist**, crafting innovative compositions that blended Chinese folk instruments with guitars and Western rhythms. Our performances at various university events received enthusiastic feedback, showcasing the fusion of our creative visions.
-
-
-### Guitar Instructor and Solo Performances
-As a **guitar instructor** at my university, I had the privilege of teaching and mentoring several students in guitar technique and performance. I developed a personalized approach for each student, helping them improve their skills and knowledge of music theory. In addition to teaching, I also performed solo concerts, where I explored both classical and contemporary guitar repertoires. These performances, alongside my teaching experiences, have deepened my passion for music and its potential as a therapeutic tool.  
-
-## Music and Performance
-
-### Forming My Band: A Fusion of Chinese and Western Music
 Throughout my musical journey, I was deeply influenced by both **Chinese traditional music** and **Western classical and modern styles**. I founded a band that aimed to combine these two musical worlds, bridging cultural gaps through unique arrangements. I took on the role of **arranger** and **guitarist**, crafting innovative compositions that blended Chinese folk instruments with electric guitars and Western rhythms. Our performances at various university events received enthusiastic feedback, showcasing the fusion of our creative visions.
 
 ![956055a5e94c606b3c08a496c736896](https://github.com/user-attachments/assets/2e2727dc-918f-490b-8b5d-22e052fcd2c5)
