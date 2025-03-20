@@ -22,7 +22,7 @@ author:
   # Biographic information
   avatar           : "profile.png"
   name             : "Xinjian Ji"
-  pronouns         : "he/him"  
+  #pronouns         : "he/him"  
   bio              : "A passionate software engineer with a strong interest in AI, music therapy, and algorithm development."
   location         : "Beijing, China"
   employer         : "Peking University"
