@@ -116,7 +116,7 @@ I developed **PyWhiteBox**, a web-based tool for **white-box testing** of Python
 
 - **Technical**: Python, Java, MATLAB, C/C++, CSS, HTML, JavaScript, MySQL, R, SPSS  
 - **Non-Technical**: Guitar, Piano, MIDI, DAW scripting (Cubase, FL Studio), Pop Singing, Hip-Hop
-- **English Proficiency**: IELTS Academic - Listening: 7.0, Reading: 7.5, Writing: 6.5, Speaking: 6.0, Overall: 7.0
+- **English Proficiency**: IELTS Academic - Overall: 7.0
 
 ---
 
