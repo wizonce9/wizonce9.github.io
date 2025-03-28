@@ -22,10 +22,10 @@ main:
         
   #- title: "Blog Posts"
   #  url: /year-archive/
-    
-- title: "Check Out My CV"
-  url: /file/JXJ_CV.pdf
-  download: true
+      
+  - title: "Check Out My CV"
+    url: /file/JXJ_CV.pdf
+    download: true
 
     
   # - title: "CV"
