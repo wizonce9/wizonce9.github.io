@@ -43,11 +43,11 @@ I am now applying for graduate studies in the **audio processing** and **music g
 ## Research Experience
 
 ### **Graduation Project: Personalized Intelligent Music Therapy Using Wearable Devices**  
-*2024.July - 2024.Jan*  
+*2024.July - 2025.Jan*  
 In my graduation project, I led the development of a **personalized music therapy system** that integrates wearable device data with **AI-generated music** to provide therapeutic benefits. This system used **SUNO generative music models** and **HRV data**, along with **LightGBM-based emotion detection**, to create personalized music that improved the mood and psychological well-being of users. After conducting three randomized controlled experiments with 90 participants, the system showed significant improvements (**p** < 0.01) in mental health outcomes.
 
 ### **A Novel Physical Modeling Approach for Sound Synthesis of Chinese Chime Bells**  
-*2024.Oct - 2024.Jan*  
+*2024.Oct - 2025.Jan*  
 As a third author in this project, I contributed to the development of a **physical modeling approach** for synthesizing **Chinese chime bell sounds**. By analyzing acoustic data from the **Marquis Yi of Zeng chime-bell set**, we created two synthesis models using **digital waveguide techniques** that replicated the bells' distinctive dual-tone characteristics. This paper is currently under review at **PLOS ONE**.  
 [View Paper](/files/papertwo.pdf)  
 [GitHub Repository](https://github.com/wizonce9/A-Novel-Physical-Modeling-Approach-for-Sound-Synthesis-of-Chinese-Chime-Bells)  
@@ -58,7 +58,7 @@ I led the development of a method to predict **stock price volatility** by analy
 [View Paper](/files/paperone.pdf)
 
 ### **FAR: A Novel Fast API Recommendation Algorithm Based on Static Centrality Annotation and Enhanced Subgraph Evaluation**  
-*2023.Jan - 2024.Jul*  
+*2024.Jan - 2024.Jul*  
 In this project, I independently developed the **FAR (Fast API Recommendation)** algorithm to improve the speed and accuracy of **API recommendations**. By utilizing an efficient indexing structure and innovative subgraph evaluation criteria, I was able to outperform existing state-of-the-art algorithms.  
 [View Paper](/files/paperthree.pdf)
 
@@ -91,9 +91,9 @@ I developed **PyWhiteBox**, a web-based tool for **white-box testing** of Python
 - **National Scholarship for Undergraduate Students**, Peking University, 2024
 - **Merit Student Award**, Peking University, 2024
 - **Merit Graduate**, Dalian University of Technology, 2023  
-- **Merit Student Leader**, Dalian University of Technology, 2022
-- **Triangular Chemical Industry Scholarship**, Dalian University of Technology, 2022
-- **Excellence in Learning Scholarship**, Dalian University of Technology, 2021
+- **Merit Student Leader**, Dalian University of Technology, 2020
+- **Mitsubishi Chemical Corporation Scholarship**, Dalian University of Technology, 2020
+- **Learning Excellence Scholarship(First Prize)**, Dalian University of Technology, 2021
 - **Innovation and Technology Scholarship**, Dalian University of Technology, 2021  
 - **Social Practice Scholarship**, Dalian University of Technology, 2020
 
@@ -101,8 +101,8 @@ I developed **PyWhiteBox**, a web-based tool for **white-box testing** of Python
 
 ## Awards
 
-- **National First Prize**, Information Security and Adversarial Techniques Competition, 2023  
-- **National First Prize**, Dynamic Zone AI+ Efficient Innovation Plan Competition, 2024  
+- **National First Prize**, Information Security and Countermeasures Contest, 2023  
+- **National First Prize**, M-Zone AI+ University Innovation Program, 2024  
 - **M Award**, Mathematical Contest in Modeling / Interdisciplinary Contest in Modeling (MCM/ICM), 2022  
 - **First Prize**, Asia-Pacific Mathematical Modeling Competition, 2022  
 - **WorldQuant Gold Medal**, Quantitative Finance, 2024  
