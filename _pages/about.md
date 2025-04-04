@@ -26,7 +26,7 @@ I am now applying for graduate studies in the **audio processing** and **music g
 
 ### **Dalian University of Technology** (2019 - 2023)
 - **Degree**: Bachelor in E-commerce  
-- **GPA**: 92.0/100  
+- **GPA**: 91.5/100  
 - **Rank**: 1/61  
 
 ---
